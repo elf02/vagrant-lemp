@@ -1,4 +1,4 @@
-# LAMP stack
+# LEMP stack
 
 * hashicorp/bionic64
 * nginx
